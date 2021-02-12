@@ -1,0 +1,4 @@
+[submodule "cargox"]
+	path = cargox
+	url = git@git.vauxoo.com:vauxoo/cargox.git
+	branch = 14.0
