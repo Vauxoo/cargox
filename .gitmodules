@@ -10,3 +10,7 @@
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
 	branch = 14.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 14.0
