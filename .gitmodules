@@ -14,3 +14,7 @@
 	path = sh-tools
 	url = git@git.vauxoo.com:vauxoo/sh-tools.git
 	branch = 14.0
+[submodule "multi-company"]
+	path = multi-company
+	url = git@github.com:OCA/multi-company.git
+	branch = 14.0
