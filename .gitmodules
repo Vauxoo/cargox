@@ -18,3 +18,7 @@
 	path = multi-company
 	url = git@github.com:OCA/multi-company.git
 	branch = 14.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 14.0
