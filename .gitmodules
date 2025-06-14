@@ -1,24 +1,20 @@
 [submodule "cargox"]
 	path = cargox
 	url = git@git.vauxoo.com:vauxoo/cargox.git
-	branch = 14.0
+	branch = 18.0
 [submodule "crm"]
 	path = crm
 	url = git@github.com:OCA/crm.git
-	branch = 14.0
+	branch = 18.0
 [submodule "costarica"]
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
-	branch = 14.0
-[submodule "sh-tools"]
-	path = sh-tools
-	url = git@git.vauxoo.com:vauxoo/sh-tools.git
-	branch = 14.0
-[submodule "multi-company"]
-	path = multi-company
-	url = git@github.com:OCA/multi-company.git
-	branch = 14.0
+	branch = 18.0
 [submodule "account-invoicing"]
 	path = account-invoicing
 	url = git@github.com:OCA/account-invoicing.git
-	branch = 14.0
+	branch = 18.0
+[submodule "multi-company"]
+	path = multi-company
+	url = git@github.com:OCA/multi-company.git
+	branch = 18.0
